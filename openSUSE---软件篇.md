@@ -43,9 +43,23 @@ VScode是一款非常好的文本编辑器，可以安装各种插件来实现�
 
 在扩展中，搜索“markdown”，找到“Markdown All in One”和“Markdown Preview Github Styling”这两个扩展组件并安装组件，安装后，就可以在VScode中编写markdown文档了。
 
-## Arduino
+## 四、Arduino IDE
 
 arduino是用来编写arduino开发板的一款IDE，首先需要在arduino官网下载包
 https://www.arduino.cc/en/software
 
 下载包到电脑后，解压缩包，在解压缩后的文件夹中，我们可以看到一个文件“install.sh”，运行该文件，即安装成功arduino IDE。
+
+## 五、QQ音乐
+
+前面写了安装网易云音乐的步骤，但是还是会有人习惯使用QQ音乐，所以在这里写一下安装QQ音乐的方法。在终端依次运行下列命令：
+
+    zypper addrepo https://download.opensuse.org/repositories/home:tshanli/openSUSE_Tumbleweed/home:tshanli.repo
+
+    zypper refresh
+
+    zypper install qqmusic
+
+由于这个是在openSUSE的官方软件源进行下载，所以时间相对于会比较长。
+
+等待安装完成之后，在程序启动器中即可找到QQ音乐。
