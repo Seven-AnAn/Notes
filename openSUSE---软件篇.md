@@ -50,16 +50,20 @@ https://www.arduino.cc/en/software
 
 下载包到电脑后，解压缩包，在解压缩后的文件夹中，我们可以看到一个文件“install.sh”，运行该文件，即安装成功arduino IDE。
 
-## 五、QQ音乐
+## 五、QT
 
-前面写了安装网易云音乐的步骤，但是还是会有人习惯使用QQ音乐，所以在这里写一下安装QQ音乐的方法。在终端依次运行下列命令：
+安装QT用来开发学习。需要现在此连接下载软件包： http://download.qt.io/archive/qt/
 
-    zypper addrepo https://download.opensuse.org/repositories/home:tshanli/openSUSE_Tumbleweed/home:tshanli.repo
+这里我下载的是5.14.2版本的QT，所以下面运行命令的也是这个版本的，不同版本的包，需要运行不同的命令。
 
-    zypper refresh
+然后在终端运行下列命令：
 
-    zypper install qqmusic
+    chmod +x qt-opensource-linux-x64-5.14.2.run
 
-由于这个是在openSUSE的官方软件源进行下载，所以时间相对于会比较长。
+    su
 
-等待安装完成之后，在程序启动器中即可找到QQ音乐。
+    zypper install --type pattern devel_basis
+
+    ./qt-opensource-linux-x64-5.14.2.run
+
+运行最后一条命令后，弹出QT安装界面，安装之后，即可在程序启动器看到QT
