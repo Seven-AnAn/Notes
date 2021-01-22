@@ -48,7 +48,7 @@ VScode是一款很好的文本编辑器，可以安装各种插件来实现各�
 arduino是用来编写arduino开发板的一款IDE，首先需要在arduino官网下载包
 https://www.arduino.cc/en/software
 
-下载包到电脑后，解压缩包，在解压缩后的文件夹中，我们可以看到一个文件“install.sh”，运行该文件，即安装成功arduino IDE。
+下载包到电脑后，解压缩包，在解压缩后的文件夹中，可以看到一个文件“install.sh”，运行该文件，即安装成功arduino IDE。
 
 ## 五、QT
 
