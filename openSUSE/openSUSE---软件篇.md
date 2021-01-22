@@ -15,7 +15,7 @@ openSUSE系统自带火狐浏览器，当然火狐也是一款非常好用的浏
 
     sudo rpm -ivh google-chrome-stable_current_x86_64.rpm
 
-等待运行成功后，即安装成功。在程序启动器中即可看到chrome浏览器。
+安装成功后，在程序启动器中即可看到chrome浏览器。
 
 ## 二、网易云音乐播放器
 
