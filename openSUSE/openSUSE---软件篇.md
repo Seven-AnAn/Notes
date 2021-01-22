@@ -27,7 +27,7 @@ openSUSE系统自带火狐浏览器，当然火狐也是一款非常好用的浏
 
 ## 三、VScode
 
-VScode是一款非常好的文本编辑器，可以安装各种插件来实现各种功能，这里我是为了写markdown文档而下载，可以在VScode官网的文档中查看到openSUSE的安装步骤，依次在终端允许下列命令：
+VScode是一款很好的文本编辑器，可以安装各种插件来实现各种功能，这里我是为了在openSUSE系统下写markdown文档而下载，可以在VScode官网的文档中查看到openSUSE的安装步骤，依次在终端允许下列命令：
 
     sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
     
