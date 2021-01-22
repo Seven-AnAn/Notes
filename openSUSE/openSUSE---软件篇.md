@@ -39,7 +39,7 @@ VScode是一款很好的文本编辑器，可以安装各种插件来实现各�
 
 安装完成后，在程序启动器中可以看到VScode。
 
-打开VScode，进行一些基础的调试、设置，在扩展中搜索“Chinese”，安装中文插件，安装后，重启VScode，VScode变为中文。
+打开VScode，进行一些基础的调试、设置，在扩展中搜索“Chinese”，安装中文插件，安装后重启VScode，VScode界面变为中文。
 
 在扩展中，搜索“markdown”，找到“Markdown All in One”和“Markdown Preview Github Styling”这两个扩展组件并安装组件，安装后，就可以在VScode中编写markdown文档了。
 
