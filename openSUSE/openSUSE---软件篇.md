@@ -52,7 +52,7 @@ https://www.arduino.cc/en/software
 
 ## 五、QT
 
-安装QT用来开发学习。需要现在此连接下载软件包： http://download.qt.io/archive/qt/
+安装QT是用来开发学习。需要现在此连接下载软件包： http://download.qt.io/archive/qt/
 
 这里我下载的是5.14.2版本的QT，所以下面运行命令的也是这个版本的，不同版本的包，需要运行不同的命令。
 
